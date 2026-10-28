@@ -1,0 +1,17 @@
+pip install --upgrade pip
+pip install torch --index-url https://download.pytorch.org/whl/cpu
+pip install ollama langchain chromadb sentence-transformers
+pip install \
+  langchain \
+  langchain-community \
+  langchain-text-splitters \
+  langchain-huggingface \
+  langchain-ollama \
+  langchain-chroma \
+  sentence-transformers \
+  faiss-cpu \
+  pypdf \
+  ipykernel \
+  streamlit \
+  chromadb \
+  ollama
