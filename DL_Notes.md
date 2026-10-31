@@ -1,4 +1,4 @@
-# Deep Learning Training — Day 1
+# Deep Learning Training
 
 ## Learning goals
 
